@@ -12,7 +12,7 @@ function reverseString(str) {
   //Shu yerga yozing 👇
 }
 
-console.log(reverseString('Algoritm'));
+// console.log(reverseString('Algoritm'));
 
 /////////////////////////////////
 // 2-savol:
@@ -24,7 +24,7 @@ function fizzBuzz() {
   //Shu yerga yozing 👇
 }
 
-console.log(fizzBuzz());
+// console.log(fizzBuzz());
 
 ////////////////////////////////
 // 3-savol:
@@ -37,3 +37,5 @@ console.log(fizzBuzz());
 function mostFrequent(arr) {
   //Shu yerga yozing 👇
 }
+
+// console.log(mostFrequent([1, 3, 2, 3, 2, 3, 2, 1, 2, 2]));
