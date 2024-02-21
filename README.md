@@ -3,8 +3,8 @@
 ### Setup
 
 - O'zingizni local Kompyuteringizga yuklab oling!
-- Zip qilib olgan bo'lsangiz, zipi oching
-- Va Har qanday Code Editor/IDE da bu loyihani oching
+- Zip qilib olgan bo'lsangiz, zipni oching
+- Va har qanday Code Editor/IDE da bu loyihani oching
 
   ### HTML&CSS
 <img width="882" alt="Снимок экрана 2024-02-21 в 13 09 56" src="https://github.com/jahongiry/Html-css/assets/91022355/89d562e9-9f32-489e-8594-e34b490c936e">
