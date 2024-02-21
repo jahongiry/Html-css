@@ -1,4 +1,4 @@
-# Algoritm Hackatoniga Hush kelibsiz!!!
+# Algoritm Hackathoniga Hush kelibsiz!!!
 
 ### Setup
 
