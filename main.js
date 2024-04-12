@@ -49,4 +49,4 @@ function fibonacci(n) {
   //Shu yerga yozing 👇
 }
 
-console.log(fibonacci(6)); // 13
+// console.log(fibonacci(6)); // 13
