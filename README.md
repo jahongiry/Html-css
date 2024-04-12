@@ -7,7 +7,8 @@
 - Va har qanday Code Editor/IDE da bu loyihani oching
 
   ### HTML&CSS
-<img width="882" alt="Снимок экрана 2024-02-21 в 13 09 56" src="https://github.com/jahongiry/Html-css/assets/91022355/89d562e9-9f32-489e-8594-e34b490c936e">
+<img width="1297" alt="Screenshot 2024-04-12 at 11 33 45 AM" src="https://github.com/jahongiry/Html-css/assets/91022355/bd847f71-ae44-438d-9bd9-1d230defdb5b">
+<img width="1296" alt="Screenshot 2024-04-12 at 11 34 40 AM" src="https://github.com/jahongiry/Html-css/assets/91022355/494cf6b4-413f-4905-ba98-a1ee423b87b9">
 
 
 ## Authors
